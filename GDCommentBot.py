@@ -1,3 +1,4 @@
+# Made by sailentcoder and HUGEEEE thanks to rigmatter12
 import gd
 import asyncio
 import random
@@ -72,3 +73,4 @@ async def comment_bot():
         await asyncio.sleep(delay)
 
 asyncio.run(comment_bot())
+
