@@ -21,10 +21,12 @@ Posts random comments from a custom list.
 Waits a random amount of time between comments to look more human.
 
 Saves a log in bot_log.txt with all posted comments.
+
 Requirements
 
 Python 3.9 or higher
 pip install gd.py
+
 Logs
 
 Every posted comment is saved in bot_log.txt, including:
@@ -32,7 +34,6 @@ Every posted comment is saved in bot_log.txt, including:
 Date and time
 
 Level ID
-
 Comment text
 
 gd.py
