@@ -4,8 +4,8 @@ import random
 import time
 
 # ==== SETTINGS ====
-USERNAME = "TuUsuario"
-PASSWORD = "TuContraseña"
+USERNAME = "YourUsername"
+PASSWORD = "YourPassword"
 
 # id of the levels where u want to comment
 LEVEL_IDS = [128, 133, 45678901, 98765432]
@@ -54,3 +54,4 @@ async def comment_bot():
         await asyncio.sleep(delay)
 
 asyncio.run(comment_bot())
+
